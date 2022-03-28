@@ -1,0 +1,11 @@
+{
+  "name": "zhongcaoyao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zhouyuxiang0/zhongcaoyao.git",
+  "author": "zhouyuxiang@epaynfc.com <zhouyuxiang@epaynfc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crawler": "^1.3.0"
+  }
+}
